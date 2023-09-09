@@ -16,10 +16,3 @@ This is a C++ implementation of the classic 4-In-A-Row game, also known as Conne
   - **Hard:** A formidable opponent using an advanced Minimax algorithm.
 
 - **Graphics:** Enjoy an engaging visual experience with graphical representations of the game board.
-
-## How to Play
-
-1. Clone the repository to your local machine.
-
-```shell
-git clone https://github.com/your-username/4-in-a-row-game.git
